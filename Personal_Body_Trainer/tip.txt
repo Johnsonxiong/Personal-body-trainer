@@ -1,0 +1,267 @@
+ 
+1. If have question related the fee, talk with department head first
+
+2. The main purpose for increasing fee is for hiring more faculty members, maybe 35(like start up costs)
+
+    15/credit
+
+3. Every department will tell the faculties and let them to tell the students in the classroom
+
+4. Voting process will hold for Computer Science freshman, will not faculties, because they did last year?
+
+5. Timeline: first or 2 weeks of October —> vote
+
+6. Then it will decide acd. year 18-19 behind in hiring
+
+7. GTA have to pay the fee anyway, but the tuition fee will be waived 
+
+
+
+
+      Seminar of 10/13     FPG a
+
+1. not so much about machine learning, but give some idea about that.
+2. Automotive embedded systems
+
+ Challenges of cybercar design
+	* Dependablity   — tolerate one permanent fault and multiple soft errors
+	* Security
+	*Quality of service
+	* Limited resources
+
+focus on simulations without real_time contrasts 
+
+
+
+
+Dear CIS705 students (CIS505 students: please ignore this message!)
+
+As part of your course requirements, you should read and present a research paper.
+
+You should select a paper that has at some time been published in either of the yearly conferences
+* POPL (Principles of Programming Languages), or
+* PLDI (Programming Language Design and Implementation).
+(If you log in from a CS machine, it should be easy to download papers from these conferences.)
+
+You should aim at a 15 minutes presentation, with 5 minutes for questions. We aim to select among the following time slots:
+Fri Dec 1: 11:30am-12:30pm, 1:30-4:30pm
+Tue Dec 5: 1-5pm
+Thu Dec 7: 10am-1pm
+With 3 presentations per hour, this should be more than enough to accommodate everyone. Please go to https://doodle.com/poll/zzbd4czb8m98988h  (Links to an external site.)Links to an external site.and select the slots you will be available.
+
+When you have decided which paper to present, please let me know (I will encourage you not to wait too long as no paper can be presented by two students), and email me a pdf version.
+
+If you present using powerpoint slides, they must be based on the template found at
+https://www.k-state.edu/vpcm/resources/powerpoint/ (Links to an external site.)Links to an external site.
+Let me know if you plan to use some other tool for producing slides, like the beamer class in LaTeX.
+
+In your presentation, make sure to explain in some detail (among other things):
+* the motivation for the work --- which problem does it address?
+* example(s) that illustrate the approach
+
+best regards, Torben Amtoft
+
+
+
+
+1. 宣传
+
+1. Need to spend money by doing promotion and marketing also cobranding and cooperation
+
+
+2. model， 不光是模特，还有游戏，户外的，美食类的，都汇聚起来。  
+
+2. Talent agency or real artist from ent company
+
+
+3. 经纪公司会伪装公司得礼物， price会不一样，充值了，会结算不一样。厂家一样。
+
+4. 
+
+
+
+
+
+网络加速，网络云平台等。 可能有带宽等。网络加速等。 都会有影响。
+
+最短平快的，注册微信。
+
+手机号码，
+
+腾讯验证码的关键字，不发到手机。 这条短信，注册成功，每天结算。
+
+
+
+
+经验他们有，还不知道合作模式。
+
+1. 同学这是真想做这一块，本地要有公司，本地策划执行的人，有媒体资源，跟经纪公司合作，至少10个人
+
+2. 前期费用高，推广
+
+3. 挖一个团队，大平台，1个月可以搭起来，热点炒作。
+
+4. 吸引融资，或者直接被收购。
+
+5. 
+
+
+
+需要
+
+前期推广需要，是需要几百万，
+一周的投入50万，国内行情预估
+
+
+主要的就是资金流
+
+1. 圈钱，投资
+
+2. 模式，用户，增值
+
+3. 被收购
+
+
+
+
+除非运营商占大股
+
+
+1. 技术团队
+
+2. 运营团队，怎么炒作，结合国情，比如微博，新浪等，印尼的媒体软件不一样
+
+3. 两个国家关注的点不一样，吸引眼球的地方不一样，印尼的地方不一样，国家的团队不一样，需要指导
+
+
+
+想法，决心和拿出钱的多少？
+
+理想的规划和模式是什么？
+
+如果在印尼的话，印尼的团队谁来带？
+
+
+工资水平相差不少。
+
+
+
+
+1. Ask them how much money spend for per user average
+
+2. Make sure that service will work for 1000,000, our target is 10000,000
+
+
+
+3. telkom , free email, 5000000, service down.
+
+4. not new, 15 years in the marketing 
+
+5. Adapt application from china
+
+
+
+model get more than 10000$ one month
+
+
+spend 1/2 dollar 
+
+every user earn 4 dollar 
+
+
+
+带宽，服务器够不够，嗯，问题应该不大。
+
+
+Calendar API Client Library for Python
+
+
+
+Can I talk with @Dr.Hsu about the Master project in DUE2221 this Friday 10am 
+
+I will go to party at 2050 Kerr Drive this Friday 8pm with @Jay
+
+I would like to talk with @Dr.Hsu about the AI course 8th Dec 10am in his office 
+
+Can I talk with @aiassi about the Master project in DUE2221 this Friday at 10am.
+
+Can I talk with @Dr.Hsu about the Master project this Friday 7am. 
+
+Can I talk with @Dr.Hsu about the Master project this Monday 7am
+
+Can I talk with @Dr.Hsu about the Master project this Tue 7am
+
+Can I talk with @Dr.Hsu about the Master project next Tue 7am
+
+Can I talk with @Dr.Hsu about the Master project coming Fri 7am
+
+Can I talk with @Dr.Hsu about the Master project next Friday 7am
+
+Can I talk with @Dr.Hsu about the Master project tomorrow 7am
+
+Can I talk with @Dr.Hsu about the Master project tomorrow at 7am
+
+I would like to talk with @Dr.Hsu about the AI course this 6th Dec in his office 
+
+I would like to talk with @Dr.Hsu about the AI course this 6th Dec 8pm in his office 
+
+I would like to talk with @Dr.Hsu about the AI course this 6th Dec at 8pm in his office 
+
+I would like to talk with @Dr.Hsu about the AI course in his office this 6th Dec at 8pm  
+
+I would like to talk with @Dr.Hsu about the AI course this Friday at 8pm in his office 
+
+I would like to talk with @Dr.Hsu about the AI course this Fri at 8pm in his office 
+
+I want to drink coffee with @Bob this weekend
+
+I am going to swim this Wednesday 8pm .  
+
+I am going to swim next Wednesday 8pm
+
+I will go to party this Saturday 8pm at 2050 Kerr Drive with @Jay . 
+
+
+
+Test cases:
+
+(1,1,4,4,2,3,2,3)
+(45,3,2,5,6,5,6)
+
+(1,4,4,2,3,2,3)
+(45,3,2,5,6,5,6)
+
+<1,1,4,4,2,3,2,3>
+<45,3,2,5,6,5,6>
+
+{1,1,4,4,2,3,2,3}
+{45,3,2,5,6,5,6}
+
+Set class definition      4
+Constructor/destructor    2
+insert function (sorted order, no duplicates, resize)   5
+print function    	  3
+union function            5
+intersect function        5
+difference function       5
+Input and output (correct format), main.cpp   4
+Create Set objects (pointer), deallocate at end of function   5
+Documentation 2
+
+after input the first vector, it corrupts.   -20
+
+Miss quit option.  -3
+
+Difference function is just A / B.    -3
+
+Insert function.   -3
+
+Okay, if so , you should notice that in your output, But you did not, So you output format is not friendly enough, I will regrade it again. But take 2 points out of the output format.
+
+  
+
+
+wristwatch
+
+
+
